@@ -496,19 +496,19 @@ This implementation demonstrates a well-architected, secure, and scalable founda
 ## Screenshots
 
 ### Login Page
-![Login Page](assets/Screenshot%202025-09-21%20at%2010.15.33%20PM.png)
+![Login Page](assets/33.png)
 
 ### Registration Page
-![Registration Page](assets/Screenshot%202025-09-21%20at%2010.15.40%20PM.png)
+![Registration Page](assets/40.png)
 
 ### Task Board - Main Dashboard
-![Task Board Dashboard](assets/Screenshot%202025-09-21%20at%2010.16.32%20PM.png)
+![Task Board Dashboard](assets/32.png)
 
 ### Task Creation Modal
-![Task Creation](assets/Screenshot%202025-09-21%20at%2010.16.59%20PM.png)
+![Task Creation](assets/59.png)
 
 ### Task Board with Multiple Tasks
-![Task Board with Tasks](assets/Screenshot%202025-09-21%20at%2010.17.57%20PM.png)
+![Task Board with Tasks](assets/57.png)
 
 ### Drag and Drop Functionality
-![Drag and Drop](assets/Screenshot%202025-09-21%20at%2010.20.42%20PM.png)
+![Drag and Drop](assets/42.png)
