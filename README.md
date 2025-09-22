@@ -492,3 +492,23 @@ MIT License - see LICENSE file for details.
 - [x] **Production-Ready** foundation with clear upgrade path
 
 This implementation demonstrates a well-architected, secure, and scalable foundation that balances MVP speed with production readiness, making thoughtful trade-offs that can be evolved as requirements grow.
+
+## Screenshots
+
+### Login Page
+![Login Page](assets/Screenshot%202025-09-21%20at%2010.15.33%20PM.png)
+
+### Registration Page
+![Registration Page](assets/Screenshot%202025-09-21%20at%2010.15.40%20PM.png)
+
+### Task Board - Main Dashboard
+![Task Board Dashboard](assets/Screenshot%202025-09-21%20at%2010.16.32%20PM.png)
+
+### Task Creation Modal
+![Task Creation](assets/Screenshot%202025-09-21%20at%2010.16.59%20PM.png)
+
+### Task Board with Multiple Tasks
+![Task Board with Tasks](assets/Screenshot%202025-09-21%20at%2010.17.57%20PM.png)
+
+### Drag and Drop Functionality
+![Drag and Drop](assets/Screenshot%202025-09-21%20at%2010.20.42%20PM.png)
