@@ -78,6 +78,26 @@ Frontend runs on: http://localhost:4200
 - **Route Protection**: Try accessing `/tasks` without logging in
 - **Role-Based Access**: Owner role has full permissions
 
+## Screenshots
+
+### Login Page
+![Login Page](assets/33.png)
+
+### Registration Page
+![Registration Page](assets/40.png)
+
+### Task Board - Main Dashboard
+![Task Board Dashboard](assets/32.png)
+
+### Task Creation Modal
+![Task Creation](assets/11.png)
+
+### Task Board with Multiple Tasks
+![Task Board with Tasks](assets/57.png)
+
+### Drag and Drop Functionality
+![Drag and Drop](assets/42.png)
+
 ## Data Model & Architecture
 
 ### Entity Relationships
@@ -493,22 +513,3 @@ MIT License - see LICENSE file for details.
 
 This implementation demonstrates a well-architected, secure, and scalable foundation that balances MVP speed with production readiness, making thoughtful trade-offs that can be evolved as requirements grow.
 
-## Screenshots
-
-### Login Page
-![Login Page](assets/33.png)
-
-### Registration Page
-![Registration Page](assets/40.png)
-
-### Task Board - Main Dashboard
-![Task Board Dashboard](assets/32.png)
-
-### Task Creation Modal
-![Task Creation](assets/59.png)
-
-### Task Board with Multiple Tasks
-![Task Board with Tasks](assets/57.png)
-
-### Drag and Drop Functionality
-![Drag and Drop](assets/42.png)
